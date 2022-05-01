@@ -1,7 +1,7 @@
 # SP2
 
 1. Hvad for en opgave du har løst:
-Gruppen 'Bornholms Stemme'
+Gruppen 'Holmerne'
 	
 2. Hvor langt du kom med den:
 Løst alle punkter
